@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @ayushrawat220804
 - 👀 I’m interested in learning new technologies, game development and many more
 - 🌱 I’m currently learning core java , dsa making projects, learning game designing
-- 📫 How to reach me - ayushrawat220804@gmail.com
+- 📫 How to reach me :
+-  Gamil      -   ayushrawat220804@gmail.com
+-  Discord    -   https://discordapp.com/users/ayushrawat4671
+-  Youtube    -   https://youtube.com/@ayyyush4671
+-  Linkedin   -   https://www.linkedin.com/in/rohit-rawat-004867205
 
 <!---
 ayushrawat220804/ayushrawat220804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
