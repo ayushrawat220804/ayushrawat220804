@@ -4,8 +4,7 @@
 - 📫 How to reach me :
 -  Gamil      -   ayushrawat220804@gmail.com
 -  Discord    -   https://discordapp.com/users/ayushrawat4671
-- ![icons8-youtube-48](https://github.com/ayushrawat220804/ayushrawat220804/assets/139307604/2e4f3736-58e7-4ffe-aec3-e9b673533ec2)
-Youtube    -   https://youtube.com/@ayyyush4671
+-  Youtube    -   https://youtube.com/@ayyyush4671
 -  Linkedin   -   https://www.linkedin.com/in/rohit-rawat-004867205
 
 # snk
