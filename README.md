@@ -6,7 +6,6 @@
 -  Discord    -   https://discordapp.com/users/ayushrawat4671
 -  Youtube    -   https://youtube.com/@ayyyush4671
 -  Linkedin   -   https://www.linkedin.com/in/rohit-rawat-004867205
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
