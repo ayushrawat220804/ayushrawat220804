@@ -7,7 +7,6 @@
 -  Youtube    -   https://youtube.com/@ayyyush4671
 -  Linkedin   -   https://www.linkedin.com/in/rohit-rawat-004867205
 
-# snk
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
