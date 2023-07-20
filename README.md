@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushrawat220804
-- 👀 I’m interested in learning new technologies, game development and many more
+- 👀 I’m interested in learning new technologies, open-source contributions, game development and many more
 - 🌱 I’m currently learning core java , dsa making projects, learning game designing
 - 📫 How to reach me :
 -  Gamil      -   ayushrawat220804@gmail.com
