@@ -1,4 +1,4 @@
-- 👋 Hi, I’m akansha, aka.sliviyaadsf
+- 👋 Hi, I’m akansha, aka.sliviyaads
 - 👀 I’m interested in learning new technologies, open-source contributions, games, devops and many more
 - 🌱 I’m currently learning core java , dsa making projects, learning game designing
 - 📫 How to reach me :
