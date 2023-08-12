@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Rawat(aka.ayush)
-- 👀 I’m interested in learning new technologies, open-source contributions, games, devops and many more
+- 👀 I’m interested in learning new technologies, open-source contributions, gaming, devops and many more
 - 🌱 I’m currently learning core java , dsa making projects, learning game designing
 - 📫 How to reach me :
 -  Gmail      -   ayushrawat220804@gmail.com
