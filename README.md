@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Rohit Rawat(aka.ayush).networking and oops
-- also descerete methakitic s
-- also working on pcs
-- and hence there are severla plcace
 - 👀 I’m interested in learning new technologies, open-source contributions, gaming, devops and many more
 - 🌱 I’m currently learning core java , dsa making projects, learning game designing, solving good-first-issues
 - 📫 How to reach me :
